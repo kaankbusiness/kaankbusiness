@@ -6,7 +6,7 @@ I'm (learning) software 🤖.
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Repairs | :black_heart: Hip-Hop | :blue_heart: Programming
 
 -  I'm from Kocaeli - Turkey
 - :video_game: I like to play video games
