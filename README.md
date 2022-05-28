@@ -2,3 +2,6 @@
 
 
 # Hi, I'm Kaank
+Full Stack | Software 🤖. (learning)
+
+## About me 
