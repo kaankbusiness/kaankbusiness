@@ -8,7 +8,7 @@ I'm (learning) software 🤖.
 
 :heart: Repairs | :black_heart: Hip-Hop | :blue_heart: Programming
 
--  I'm from Kocaeli - Turkey
+-  I'm from Turkey
 - :video_game: I like to play video games
 
 ## Social media :mailbox_with_no_mail:
